@@ -11,7 +11,8 @@
 - ⚡ Fun fact: Always curious to learn new things.
 
 <p align = "center">
-  <font style = "courier new"> <i>VISITOR COUNT</i> </font>
+  <!--<font style = "courier new"> <i>VISITOR COUNT</i> </font>-->
   <br>
-  <img src = "https://profile-counter.glitch.me/{Ishika2}/count.svg">
+  <!--<img src = "https://profile-counter.glitch.me/{Ishika2}/count.svg">-->
+  <img src="https://komarev.com/ghpvc/?username=Ishika2&label=PROFILE+VIEWS&color=green&style=plastic" alt="GITHUB-USERNAME" />
 </p>
