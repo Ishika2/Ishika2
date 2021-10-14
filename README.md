@@ -1,6 +1,6 @@
 ### Hi there, I'm Ishika 👋
 
-<!--
+
 **Ishika2/Ishika2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about python programming, will be happy to help.
 - 📫 Connect with me: https://www.linkedin.com/in/ishika-punchariya-7a286121b
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love to learn new things every day.
--->
+
