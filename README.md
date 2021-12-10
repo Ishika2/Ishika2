@@ -1,6 +1,6 @@
 <h1 align = "center">Hi there, I'm Ishika 👋</h1>
 <p align = "center">
-  <img src = "https://c.tenor.com/cxFGQv-c6k0AAAAM/discord-discord-stickers.gif">
+  <img src = "https://c.tenor.com/EU5PsyIFwRUAAAAi/wumpus-discord.gif">
  </p>
 
 - 🔭 Working on growing my skills in data structures and algorithms.
