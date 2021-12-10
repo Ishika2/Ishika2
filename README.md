@@ -10,24 +10,21 @@
 - 💬 Ask me about python and C++ programming, will be happy to help.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ishika-punchariya-7a286121b)
 - ⚡ Fun fact: Always curious to learn new things.
-  
+ 
+ <table border = "0">
+  <tr>
  <a href="https://github.com/Ishika2/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ishika2&show_icons=true&theme=radical" />
+  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ishika2&show_icons=true&theme=radical" />
 </a>
-<br><br>
 
 <a href="https://github.com/Ishika2/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishika2" />
+  <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishika2" />
 </a>
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
-
-<a href="https://github.com/Ishika2/convoychat">
-  <!--- &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika2&layout=compact" />
-</a>
-
-
+    </tr>
+</table>
+<p align = "center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika2&layout=compact" />
+</p> 
 
 <p align = "center">
   <!--<font style = "courier new"> <i>VISITOR COUNT</i> </font>-->
@@ -36,4 +33,5 @@
   <img src="https://komarev.com/ghpvc/?username=Ishika2&label=PROFILE+VIEWS&color=green&style=plastic" alt="GITHUB-USERNAME" />
 </p>
 
-
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
+<!--- &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp -->
