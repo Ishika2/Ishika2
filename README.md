@@ -15,6 +15,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ishika2&show_icons=true&theme=radical" />
 </a>
 <br><br>
+
+<a href="https://github.com/Ishika2/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishika2" />
+</a>
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
+
 <a href="https://github.com/Ishika2/convoychat">
   <!--- &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika2&layout=compact" />
