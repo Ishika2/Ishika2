@@ -7,7 +7,7 @@
 - 🔭 Working on growing my skills in data structures and algorithms.
 - 🌱 Learning machine learning and app development.
 - 👯 Looking to collaborate on open-source and hackathons.
-- 💬 Ask me about python and C++ programming, will be happy to help.
+- 💬 Ask me about Python and C++ programming, will be happy to help.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ishika-punchariya-7a286121b)
 - ⚡ Fun fact: Always curious to learn new things.
  
