@@ -1,11 +1,11 @@
 <h1 align = "center">Hi there, I'm Ishika 👋</h1>
 <p align = "center">
-  <img src = "https://c.tenor.com/lUFliafCu_MAAAAM/hello.gif">
+  <img src = "https://c.tenor.com/cxFGQv-c6k0AAAAM/discord-discord-stickers.gif">
  </p>
 
-- 🔭 I’m currently working on growing my skills in data structures and algorithms.
-- 🌱 I’m currently learning machine learning.
-- 👯 I’m looking to collaborate on open-source and hackathons.
+- 🔭 Working on growing my skills in data structures and algorithms.
+- 🌱 Learning machine learning and app development.
+- 👯 Looking to collaborate on open-source and hackathons.
 - 💬 Ask me about python and C++ programming, will be happy to help.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ishika-punchariya-7a286121b)
 - ⚡ Fun fact: Always curious to learn new things.
