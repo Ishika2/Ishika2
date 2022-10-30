@@ -26,6 +26,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika2&layout=compact" />
 </p> 
 
+[![@curious_ishika's Holopin board](https://holopin.me/curious_ishika)](https://holopin.io/@curious_ishika)
+
 <p align = "center">
   <!--<font style = "courier new"> <i>VISITOR COUNT</i> </font>-->
   <br>
