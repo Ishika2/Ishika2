@@ -8,7 +8,7 @@
 - 🌱 Learning machine learning and app development.
 - 👯 Looking to collaborate on open-source and hackathons.
 - 💬 Ask me about Python and C++ programming, will be happy to help.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ishika-punchariya-7a286121b)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ishika-punchariya-7a286121b), [Twitter](https://twitter.com/curious_ishika)
 - ⚡ Fun fact: Always curious to learn new things.
  
  <table border = "0">
